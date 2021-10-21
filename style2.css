@@ -1,0 +1,71 @@
+.BOUTIQUE 
+		{
+			color: #BA1FDE; font-weight: bold; font-size: 2.1em; font-family: Schwabacher, Arial, Verdana, "Times New Roman", sans-serif, Impact, "Arial Black";text-align: left;
+			background-color: #3fadcc; border: 3px black solid; border-radius: 20px / 10px; box-shadow: 6px 6px 10px black; text-shadow: 6px 6px 6px black;
+			} 
+
+.NOUVEAUTES
+{
+			color: #BA1FDE; font-weight: bold; font-size: 2.1em; font-family: Schwabacher, Arial, Verdana, "Times New Roman", sans-serif, Impact, "Arial Black";text-align: left;
+			background-color: #3fadcc; border: 3px black solid; border-radius: 20px / 10px; box-shadow: 6px 6px 10px black; text-shadow: 6px 6px 6px black;
+			width: 50%;
+		} 
+
+		h1
+{
+color: white; font-size: 4em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black";text-align: center;
+}
+		p
+		{
+			color: black; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial black"; 
+			margin-left: 20px;
+		} 
+
+	p:hover
+{
+	border-left: 3px solid #BA1FDE;
+}
+
+		.choix
+		{
+			color: blue; font-weight: bold; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black";
+		} 
+	
+		.produits
+		{
+			color: black; font-weight: bold; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black";
+		} 
+
+		.certain
+		{
+			color: black; font-weight: bold; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black"; text-decoration: underline;
+		} 
+	
+		h2
+	{
+			color: #BA1FDE; font-weight: bold; font-size: 2em; font-family: Schwabacher, Arial, Verdana, "Times New Roman", sans-serif, Impact, "Arial Black";text-align: left;
+			background-color: #3fadcc; border: 3px Black solid; border-radius: 20px / 10px; box-shadow: 6px 6px 10px black;
+		}
+
+body
+{
+background: url("images/chaperonp.jpg") scroll repeat-x;
+background-color: rgba(204, 204, 255, 0.5);
+}
+
+		.imageflottante
+		{
+			float: left;
+		}
+		.dessous
+		{
+			clear: both;
+		}
+		a:hover
+		{
+		color: red;
+		}
+
+		.Copyright
+{
+	color: blue; font-size: 0.7em;

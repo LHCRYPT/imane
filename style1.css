@@ -1,0 +1,60 @@
+.biographie
+		{
+			color: #BA1FDE; font-weight: bold; font-size: 2.1em; 
+			font-family: Schwabacher, Arial, Verdana, "Times New Roman", sans-serif, Impact, "Arial Black";text-align: left;
+			background-color: #3fadcc; border: 3px black solid; border-radius: 20px / 20px; box-shadow: 6px 6px 10px black; 
+			text-shadow: 6px 6px 6px black;
+			width: 50%; 
+		} 
+
+p
+		{
+			color: black; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black"; text-align: justify;
+			 margin-left: 20px; margin-right: 20px;
+		}
+
+title
+{
+	font-size: 1em;
+}
+
+p:hover
+{
+	border-left: 3px solid #BA1FDE; 
+}
+
+.techniques
+{
+color: red; font-size: 1em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black"; margin-left: 20px;
+} 
+
+h2
+{
+color: #BA1FDE; font-weight: bold; font-size: 2em; font-family: Schwabacher, Arial, Verdana, "Times New Roman", sans-serif, Impact, "Arial Black";text-align: left;
+text-shadow: 6px 6px 10px black;
+}
+
+
+body /*pour mettre le dessin du chaperon rouge tout en haut de la page*/
+{
+background: url("images/chaperonp.jpg") scroll repeat-x; /*pour répéter plusieurs fois la photo*/
+background-color: rgba(204, 204, 255, 0.5);
+}
+h1
+{
+color: white; font-size: 4em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black";text-align: center;
+}
+
+h3
+{
+color: #BA1FDE; font-size: 1.5em; font-family: Arial, "Times New Roman", Verdana, sans-serif, Impact, "Arial Black";text-align: left;
+}
+a:hover/* une couleur se met dès qu'on survol le mot */
+{
+color: red;
+}
+
+.Copyright
+{
+	color: blue; font-size: 0.7em;
+	
